@@ -40,7 +40,7 @@ h2
 {
 	margin: 100px auto;
 	width: 810px;
-	background-color: #CDD5E020;
+	background: rgba(205, 213, 224, 0.28);
 	border-radius: 25px;
 	padding: 30px 30px;
 }
